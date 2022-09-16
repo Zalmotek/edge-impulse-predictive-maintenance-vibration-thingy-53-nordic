@@ -32,7 +32,7 @@ To address this, we will be developing a predictive maintenance solution that ga
 ## Conclusion
 By employing IoT devices powered by machine learning algorithms running on the edge, Predictive maintenance is closer to becoming a common practice in industrial environments, making it cheaper, more accessible and more powerful than ever. While simple in their principle of operation, predictive maintenance systems improve the Overall Equipment Effectiveness and positively impact the equipment Remaining Useful Life (RUL). 
 ## Authors
-   [Zalmotek team](https://zalmotek.com/)
+  Built for [Edge Impulse](https://edgeimpulse.com/) by [Zalmotek team](https://zalmotek.com/)
 
 
 
