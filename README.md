@@ -14,7 +14,7 @@
 	</tr>
 	<tr>
 		<td><p>Industrial</p></td>
-		<td><p>Thingy:53/p></td>
+		<td><p>Thingy:53</p></td>
 		<td><p>Nordic Semi</p></td>
 		<td><p>Predictive maintenance</p></td>
 		<td><p>NN Classifier & Anomaly Detection</p></td>
