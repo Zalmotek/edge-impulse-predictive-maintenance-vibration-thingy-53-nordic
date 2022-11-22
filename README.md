@@ -4,26 +4,6 @@
 
 ![Thingy:53 mounted on compressor](53HighlightPhoto.jpg)
 
-<table align="center", width="100%">
-	<tr>
-		<td><p>Vertical</p></td>
-		<td><p>Hardware Target</p></td>
-		<td><p>Manufacturer</p></td>
-		<td><p>Type</p></td>
-		<td><p>Feature used</p></td>
-	</tr>
-	<tr>
-		<td><p>Industrial</p></td>
-		<td><p>Thingy:53</p></td>
-		<td><p>Nordic Semi</p></td>
-		<td><p>Predictive maintenance</p></td>
-		<td><p>NN Classifier & Anomaly Detection</p></td>
-	</tr>
-		
-
-</table>
-
-
 ## The challenge
 
 In industrial settings, compressors are used to provide air to power air tools, paint sprayers, and abrasive blast equipment, to phase shift refrigerants for air conditioning and refrigeration and to propel gas through pipelines. In our application, the compressor is used in a laser cutting machine to eliminate all the debris and cool the material at the point of contact between the workpiece and the laser beam. Failure of doing this may lead to ruining the workpiece, as the material will warp near the laser beam and also, pose a structural risk to the whole machinery as the debris might accumulate and ignite from the heat. 
